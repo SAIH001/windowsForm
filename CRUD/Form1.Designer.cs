@@ -39,7 +39,6 @@
             registrationBtn = new Button();
             label5 = new Label();
             label4 = new Label();
-            connectbtn = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -109,12 +108,13 @@
             // 
             registrationBtn.BackColor = Color.Yellow;
             registrationBtn.ForeColor = SystemColors.ActiveCaptionText;
-            registrationBtn.Location = new Point(124, 419);
+            registrationBtn.Location = new Point(124, 420);
             registrationBtn.Name = "registrationBtn";
             registrationBtn.Size = new Size(80, 29);
             registrationBtn.TabIndex = 7;
             registrationBtn.Text = "Registration";
             registrationBtn.UseVisualStyleBackColor = false;
+            registrationBtn.Click += registrationBtn_Click;
             // 
             // label5
             // 
@@ -137,25 +137,12 @@
             label4.Text = "Login";
             label4.Click += label4_Click;
             // 
-            // connectbtn
-            // 
-            connectbtn.BackColor = Color.Yellow;
-            connectbtn.ForeColor = SystemColors.ActiveCaptionText;
-            connectbtn.Location = new Point(124, 454);
-            connectbtn.Name = "connectbtn";
-            connectbtn.Size = new Size(80, 29);
-            connectbtn.TabIndex = 11;
-            connectbtn.Text = "Connect";
-            connectbtn.UseVisualStyleBackColor = false;
-            connectbtn.Click += connectbtn_Click;
-            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ControlLightLight;
             ClientSize = new Size(344, 494);
-            Controls.Add(connectbtn);
             Controls.Add(label4);
             Controls.Add(label5);
             Controls.Add(registrationBtn);
@@ -186,6 +173,5 @@
         private Button registrationBtn;
         private Label label5;
         private Label label4;
-        private Button connectbtn;
     }
 }

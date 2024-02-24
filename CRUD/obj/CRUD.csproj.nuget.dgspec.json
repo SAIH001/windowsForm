@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aliimran\\source\\repos\\CRUD\\CRUD\\CRUD.csproj": {}
+    "C:\\Users\\aliimran\\Videos\\2212E1\\CRUD\\CRUD\\CRUD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aliimran\\source\\repos\\CRUD\\CRUD\\CRUD.csproj": {
+    "C:\\Users\\aliimran\\Videos\\2212E1\\CRUD\\CRUD\\CRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aliimran\\source\\repos\\CRUD\\CRUD\\CRUD.csproj",
+        "projectUniqueName": "C:\\Users\\aliimran\\Videos\\2212E1\\CRUD\\CRUD\\CRUD.csproj",
         "projectName": "CRUD",
-        "projectPath": "C:\\Users\\aliimran\\source\\repos\\CRUD\\CRUD\\CRUD.csproj",
+        "projectPath": "C:\\Users\\aliimran\\Videos\\2212E1\\CRUD\\CRUD\\CRUD.csproj",
         "packagesPath": "C:\\Users\\aliimran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aliimran\\source\\repos\\CRUD\\CRUD\\obj\\",
+        "outputPath": "C:\\Users\\aliimran\\Videos\\2212E1\\CRUD\\CRUD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
