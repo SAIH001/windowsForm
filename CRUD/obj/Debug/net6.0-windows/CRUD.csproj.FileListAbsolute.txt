@@ -42,3 +42,4 @@ C:\Users\aliimran\Videos\2212E1\CRUD\CRUD\obj\Debug\net6.0-windows\refint\CRUD.d
 C:\Users\aliimran\Videos\2212E1\CRUD\CRUD\obj\Debug\net6.0-windows\CRUD.pdb
 C:\Users\aliimran\Videos\2212E1\CRUD\CRUD\obj\Debug\net6.0-windows\CRUD.genruntimeconfig.cache
 C:\Users\aliimran\Videos\2212E1\CRUD\CRUD\obj\Debug\net6.0-windows\ref\CRUD.dll
+C:\Users\aliimran\Videos\2212E1\CRUD\CRUD\obj\Debug\net6.0-windows\CRUD.CustomerPanel.resources
